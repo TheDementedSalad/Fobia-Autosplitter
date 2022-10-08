@@ -1,3 +1,8 @@
+//Fobia: St Dinfna Autosplitter v 1.0 08/10/2022
+//Supports Autosplits for each chapter + item splitter
+//Removes loads
+// By TheDementedSalad
+
 state("Fobia-Win64-Shipping", "Release")
 {
 	byte isLoading: 0x4C37300, 0x10, 0x8, 0x560;
